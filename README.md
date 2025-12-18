@@ -26,8 +26,8 @@
 1. Клонировать репозиторий:
 
 ```bash
-git clone https://github.com/<your-username>/weather-app-monitoring.git
-cd weather-app-monitoring
+git clone https://github.com/madnoxx/Weather-app.git
+cd Weather-app
 ```
 
 2. Установить переменную окружения с API-ключом:
